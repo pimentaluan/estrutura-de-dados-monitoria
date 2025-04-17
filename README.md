@@ -6,7 +6,7 @@ Bem-vindo(a)! Este repositório contém materiais organizados por tema para apoi
 
 | Tema | Descrição | Link |
 |------|-----------|------|
-| 01   | Introdução à Programação Orientada a Objetos (POO) | [Acessar Tema 01](./01-poo-introducao/) |
+| 01   | Introdução à Programação Orientada a Objetos (POO) | [Acessar Tema 01](./01-poo-introducao/README.md) |
 | 02   | Classes, Métodos e Atributos | _em breve_ |
 | 03   | Encapsulamento | _em breve_ |
 | 04   | Tratamento de Exceções | _em breve_ |
