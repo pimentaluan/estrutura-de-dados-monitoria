@@ -109,5 +109,5 @@ print(conta._Conta__saldo)  # Acesso por name mangling (NÃO recomendado)
 
 ## 🔗 Dica de material complementar
 
-- [Encapsulamento com Python – Curso em Vídeo](https://www.youtube.com/watch?v=3arK9wjP-nY)  
+- [Orientação a objetos: Encapsulamento (PETEE UFMG)](https://www.youtube.com/watch?v=rw0uP9yNFCU)  
 - [Python Docs – Classes e Atributos](https://docs.python.org/3/tutorial/classes.html#private-variables)
