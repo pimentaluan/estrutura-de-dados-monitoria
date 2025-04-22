@@ -153,5 +153,6 @@ Implemente um pequeno programa que:
 
 ## 🔗 Complementos
 
-- [Aula 04 - Pilhas (PDF)](../material/aula04-[ED]-pilhas.pdf)
+- [Videoaula - Pilha Sequencial (Thiago Moura)](https://www.youtube.com/watch?v=4CjDXi-wu8o&list=PLHskJyf7fQWVN9sy_qWo75i3Pnyryj61M&index=12)
+- [Videoaula - Pilha Encadeada (Thiago Moura)](https://www.youtube.com/watch?v=IZqYAzuHjRo&list=PLHskJyf7fQWVN9sy_qWo75i3Pnyryj61M&index=13)
 - [Documentação Python – Listas](https://docs.python.org/3/tutorial/datastructures.html)
