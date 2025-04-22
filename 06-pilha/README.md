@@ -149,6 +149,8 @@ Implemente um pequeno programa que:
 - Adapte as pilhas para trabalhar com objetos (ex: `Aluno`, `Tarefa`)
 - Crie um método que desempilha tudo até esvaziar e retorna os valores em uma lista
 
+📄 [Ver solução da inversão de string](./inverter_string.py)
+
 ---
 
 ## 🔗 Complementos
