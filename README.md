@@ -11,6 +11,7 @@ Bem-vindo(a)! Este repositório contém materiais organizados por tema para apoi
 | 03   | Encapsulamento | [Acessar Tema 03](./03-encapsulamento/README.md) |
 | 04   | Tratamento de Exceções | [Acessar Tema 04](./04-excecoes/README.md) |
 | 05   | Exercícios de POO | [Acessar Tema 05](./05-exercicios-poo/README.md) |
+| 06   | Pilha | [Acessar Tema 06](./06-pilha/README.md) |
 | ...  | ... | ... |
 
 ---
