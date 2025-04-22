@@ -20,4 +20,4 @@ Cada tema contém:
 - 🧪 Arquivos `.py` com exemplos e exercícios
 - 📄 Desafio extra (nível monitor!)
 
-Sinta-se livre para clonar, e testar, o importante é aprender o conteúdo 😉!
+Sinta-se livre para clonar e testar, o importante é aprender o conteúdo 😉!
