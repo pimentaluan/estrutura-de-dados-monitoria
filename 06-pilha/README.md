@@ -143,11 +143,9 @@ Implemente um pequeno programa que:
 
 ## 💡 Desafio
 
-- Implemente a inversão de uma string usando a `PilhaEncadeada`
+- Implemente um método de inversão de uma string usando a `PilhaEncadeada`
   - Imagem de exemplo:
     ![Visualização da inversão de string com pilha](./img/pilha_inversao_string.jpg) 
-- Adapte as pilhas para trabalhar com objetos (ex: `Aluno`, `Tarefa`)
-- Crie um método que desempilha tudo até esvaziar e retorna os valores em uma lista
 
 📄 [Ver solução da inversão de string](./inverter_string.py)
 
