@@ -13,6 +13,7 @@ Bem-vindo(a)! Este repositório contém materiais organizados por tema para apoi
 | 05   | Exercícios de POO | [Acessar Tema 05](./05-exercicios-poo/README.md) |
 | 06   | Pilha | [Acessar Tema 06](./06-pilha/README.md) |
 | ...  | ... | ... |
+| Exercícios | Exercicios do Classroom | [Acessar exercícios](./exercicios/README.md)
 
 ---
 
